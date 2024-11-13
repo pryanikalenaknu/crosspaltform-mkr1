@@ -3,8 +3,8 @@ namespace CrossplatformMKR_1;
 public static class FileUtil
 {
 
-    public static readonly string ReadPath = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "INPUT.TXT"));
-    public static readonly string WritePath = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "OUTPUT.TXT"));
+    public static readonly string ReadPath = Path.Combine(Path.GetFullPath("Files"), "INPUT.TXT");
+    public static readonly string WritePath = Path.Combine(Path.GetFullPath("Files"), "OUTPUT.TXT");
     
     
     public static string[] Read(string inputFilePath)

@@ -36,7 +36,7 @@ public class MKRTask
     {
         if (!var)
         {
-            throw new InvalidDataException(message);
+            throw new ArgumentException(message);
         }
     }
 }

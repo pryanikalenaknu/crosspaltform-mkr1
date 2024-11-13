@@ -1,6 +1,6 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossplatformMKR-1", "CrossplatformMKR-1\CrossplatformMKR-1.csproj", "{9E2463D8-C792-4F36-A06A-1DB14126377A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossplatformMKR-1", "CrossplatformMKR-1.csproj", "{9E2463D8-C792-4F36-A06A-1DB14126377A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKR-1Tests", "MKR-1Tests\MKR-1Tests.csproj", "{E8A12821-4D3A-4B06-BC88-A565598F6532}"
 EndProject

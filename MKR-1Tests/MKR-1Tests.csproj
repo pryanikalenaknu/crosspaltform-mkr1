@@ -23,7 +23,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\CrossplatformMKR-1\CrossplatformMKR-1.csproj" />
+      <ProjectReference Include="..\CrossplatformMKR-1.csproj" />
     </ItemGroup>
 
 </Project>

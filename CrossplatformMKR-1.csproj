@@ -8,4 +8,16 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Remove="MKR-1Tests\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="MKR-1Tests\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="MKR-1Tests\**" />
+    </ItemGroup>
+
 </Project>
